@@ -1,35 +1,4 @@
-body {
-    margin: 0px;  
-}
-
-.main {
-    display: block;
-    background-color: rgb(247, 177, 48);
-    height: fit-content;
-
-    display: inline-block;
-    width: 100%;
-}
-
-.banner {
-    width: 17%;
-    margin-left: 3%;
-}
-
-.ab {
-    margin-top: 50px;
-    margin-left: 55px;
-    color: orange;
-    font-weight: bold;
-    font-family: Arial;
-    font-size: 50px;
-}
-
-.aa {
-    text-decoration: none;
-    
-}
-
 .a1 {
-    margin-left: 55px;
+    text-align: center;
+    font-size: 50px;
 }
