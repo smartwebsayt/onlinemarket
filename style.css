@@ -1,260 +1,35 @@
 body {
-    background-color: azure;
-    margin: 0px;
-    user-select: none;
+    margin: 0px;  
 }
 
 .main {
     display: block;
-    background-color: orange;
-    height: 65px;
-    border: 0 solid orange;
-    margin: 0;
-}
+    background-color: rgb(247, 177, 48);
+    height: fit-content;
 
-.mainpng {
-    height: 26px;
-    width: 80px;
-    margin-left: 22px;
-    margin-top: 10px;
-    background-color: white;
-    padding: 10px;
-    padding-left: 13px;
-    padding-right: 13px;
-    border-radius: 10px;
-}
-
-.mainpng2 {
-    height: 26px;
-    width: 80px;
-    margin-left: 12px;
-    margin-top: 10px;
-    background-color: white;
-    padding: 10px;
-    padding-left: 13px;
-    padding-right: 13px;
-    border-radius: 10px;
-}
-
-.oreodiv1 {
-    border: 1px solid #ddd;
     display: inline-block;
-    border-radius: 5px;
-    margin-top: 10px;
-    margin-left: 20px;
-    margin-bottom: 5px;
+    width: 100%;
 }
 
-.oreodiv {
-    border: 1px solid #ddd;
-    display: inline-block;
-    border-radius: 5px;
-    margin-top: 10px;
-    margin-left: 5px;
-    margin-bottom: 5px;
-}
-
-img {
-    margin-top: 2px;
-    width: 340px;
-}
-
-.oreo {
-    margin-left: 12px;
-    font-family: Calibri;
-    margin-bottom: 7px;
-    font-weight: 520;
-    font-size: 18px;
-}
-
-.word {
-    margin-left: 12px;
-    font-family: Calibri;
-    margin-top: 0px;
-    font-size: 17px;
-    font-weight: 100;
-}
-
-.baha {
-    font-weight: bold;
-    margin-left: 12px;
-    font-family: Calibri;
-    display: inline-block;
-    margin-right: 6px;
-    margin-top: 0px;
-    font-size: 17px;
-    margin-bottom: 5px;
-}
-
-.skidka {
-    text-decoration: del;
-    font-family: Calibri;
-    color: #B5C0D0;
-    font-size: 15px;
-}
-
-.fav {
-    margin-left: 11px;
-    color: orange;
-    border: 0.1px solid #e0d9d9;
-    padding: 5px;
-    border-radius: 5px;
-    margin-right: 4px;
-    cursor: default;
-}
-
-.buy {
-    color: white;
-    border: 0px solid #dddddd;
-    padding: 5px;
-    border-radius: 5px;
-    background-color: orange;
-    text-align: center;
-    width: 270px;
-    margin-bottom: 10px;
-    cursor: default;
-}
-
-.buy:hover {
-    background-color: #FFA447;
-}
-
-.prosent {
-    border: 0px solid red;
-    background-color: red;
-    color: white;
-    text-align: center;
-    border-radius: 7px;
-    padding: 2px;
-    font-size: 15px;
-    font-family: Calibri;
-    width: 45px;
-    height: 18px;
-    margin-left: 15px;
-    margin-top: 0px;
-}
-
-.yer1 {
-    padding-bottom: 20px;
-}
-
-.yer {
-    padding-bottom: 23px;
-}
-
-.rek {
-    margin-left: 50px;
-    font-family: Arial;
-    font-weight: bold;
-    font-size: 25px;
-    margin-bottom: 0px;
-    display: block;
-    margin-top: 12px;
-}
-
-.rek:hover {
-    color: orange;
-    cursor: default;
-}
-
-.ar {
-    border: 0px solid white;
-    vertical-align: top;
-}
-
-.kat {
-    width: 150px;
-    border: red 0px solid;
-    font-size: 16px;
-    font-weight: 50;
-    background-color: azure;
-    margin-top: 13px;
-    margin-left: 5px;
-    color: #7a7676;
-    font-weight: 50;
-    font-family: Arial;
-}
-
-.ag {
-    width: 44%;
-    border: red 0px solid;
-    font-size: 17px;
-    font-weight: 50;
-    background-color: azure;
-    text-align: center;
-}
-
-.goz {
-    width: 5%;
-    border: red 0px solid;
-    color: #5f5050;
-    font-weight: 50;
-    background-color: azure;
-    vertical-align: top;
-    margin-top: 2px;
-}
-
-.zak {
-    border: 1px #ddd solid;
-    height: 48px;
-}
-
-.jac {
-    border-radius: 10px;
-    height: 340px;
-    width: 680px;
+.banner {
+    width: 17%;
     margin-left: 3%;
-    margin-top: 9px;
 }
 
-.loc {
-    vertical-align: top;
-    font-size: 19px;
-}
-
-.cat {
-    vertical-align: top;
-    font-size: 19px;
-    margin-top: 0px;
-}
-
-.jos {
-    padding-bottom: 0px;
-}
-
-.stc {
-    vertical-align: top;
-    font-size: 19px;
-}
-
-.scc {
-    border-radius: 10px;
-    border: 1px #e5e7eb solid;
-    height: 25px;
-    background-color: #e5e7eb;
-    width: 540px;
-}
-
-
-
-.bre {
-    width: 150px;
-    border: red 0px solid;
-    font-size: 16px;
-    font-weight: 50;
-    background-color: azure;
-    margin-top: 13px;
-    margin-left: 0px;
-    color: #7a7676;
-    font-weight: 50;
+.ab {
+    margin-top: 50px;
+    margin-left: 55px;
+    color: orange;
+    font-weight: bold;
     font-family: Arial;
+    font-size: 50px;
+}
+
+.aa {
+    text-decoration: none;
+    
 }
 
 .a1 {
-    margin-bottom: 22px;
-}
-
-.sur {
-    width: 238;
-    height: 238;
+    margin-left: 55px;
 }
